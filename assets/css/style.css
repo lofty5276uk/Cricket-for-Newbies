@@ -1,0 +1,33 @@
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+  }
+    .navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+    }
+    .brand-name {
+    font-family: 'Josefin Slab', serif;
+    font-size: 47px;
+    font-weight: bold;
+    color: #444;
+    text-decoration: none;
+    }
+    .nav-container {
+    padding-top: 8px;
+    }
+    .navbar-custom {
+    font-size: 20px;
+    background-color: #FFF;
+    }
+
+    @media screen and (max-width: 1024px) { /* Specific to this particular image */
+        pitch.jpg {
+          left: 50%;
+          margin-left: -512px;   /* 50% */
+        }
+      }
+    
