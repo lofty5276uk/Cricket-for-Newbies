@@ -103,3 +103,39 @@
   font-size: 1.75rem;
 }
 
+#callout-container {
+  height: 100vh;
+  width: auto;
+  background: url(../images/pitch.jpg) no-repeat fixed;
+  background-size: contain;
+  background-color: rgb(2, 26, 2));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;    
+}
+
+.callout-text {
+  color: rgba(10, 8, 8, 0.849);
+  font-weight: bold;
+}
+
+.Rules-of-Cricket {
+  font-size: 1.2rem;
+  align-self: left;
+}
+
+.batting {
+  font-size: 1.2rem;
+  align-self: left;  
+}
+
+.bowling {
+  font-size: 1.2rem;
+  align-self: left;   
+}
+
+.fielding (
+  font-size: 1.2rem;
+  align-self: left;
+)
