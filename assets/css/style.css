@@ -17,3 +17,89 @@
   height: 184px;
 }
 
+/*----Sections 1 through 4----*/
+
+.section-header {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.para-format {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.btn {
+  background-color: #df0402;
+}
+
+.break-line {
+  border: 1px solid #000;
+  margin: 0 5rem;
+}
+
+.Rules-of-Cricket {
+  width: 200px;
+  height: auto;
+}
+
+.batting {
+  width: 200px;
+  height: auto;
+}
+
+.bowling {
+  width: 200px;
+  height: auto;
+}
+
+.fielding {
+  width: 200px;
+  height: auto;
+}
+/*----navbar----*/
+
+.navbar-stick {
+  display: flex;
+  top: 0px;
+  left: 0px;
+  position: sticky;
+  z-index: 999999;
+}
+
+.navbar-collapse {
+  justify-content: center;
+  background-color: #000;
+}
+
+.navbar {
+  padding: 0;
+  background-color: #000;
+}
+
+.nav-item {
+   background-color: #000;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.navbar-dark,
+.navbar-nav:hover,
+.nav-link:hover {
+  color: #d6d30b;
+  transition-duration: .5s;
+}
+
+.navbar-toggler {
+  background-color: #000;
+}
+
+.navbar-toggler-icon i {
+  color: white;
+  font-size: 1.75rem;
+}
+
