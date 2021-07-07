@@ -2,6 +2,13 @@
 
 /*----Header----*/
 
+h1 {
+  text-align:center;
+}
+
+h2 {
+  text-align:center;
+}
 .bg-color-head {
   background-color: rgb(2, 5, 2);
 }
@@ -38,24 +45,8 @@
   margin: 0 5rem;
 }
 
-.Rules-of-Cricket {
-  width: 200px;
-  height: auto;
-}
-
-.batting {
-  width: 200px;
-  height: auto;
-}
-
-.bowling {
-  width: 200px;
-  height: auto;
-}
-
-.fielding {
-  width: 200px;
-  height: auto;
+.p {
+  text-align: center
 }
 /*----navbar----*/
 
@@ -107,12 +98,16 @@
   height: 100vh;
   width: auto;
   background: url(../images/pitch.jpg) no-repeat fixed;
-  background-size: contain;
+  background-size: cover;
   background-color: rgb(2, 26, 2));
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;    
+}
+
+.pitch.jpg {
+  background: url(../images/pitch.jpg) no-repeat fixed;
 }
 
 .callout-text {
@@ -135,12 +130,42 @@
   align-self: left;   
 }
 
-.fielding (
-  font-size: 1.2rem;
-  align-self: left;
-)
-
-table, th {
-  border: 1px solid black;
-  border-collapse: collapse;
+.fielding {
+  background-color: rgb(9, 128, 9));
 }
+  
+)
+iframe {
+  height: 500px;
+  width: 500px;
+}
+
+table {
+	width: 70%;
+}
+
+tr {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+  
+}
+
+tr, th, td {
+	text-align: left;
+  text;
+}
+
+th {
+	border: 1px solid black;
+	padding: 5px;
+  background-color: gold;
+}
+
+td {
+	border: 1px solid black;
+	padding: 5px;
+  background-color: red;
+  font-weight: bold;
+}
+
+
