@@ -27,10 +27,7 @@ Any Feedback or queries head over to my Github contact details and please leave 
         * [Icons](#icons)
         * [Colors](#colors)
         * [Structure](#structure)
-* [Languages](#languages)
-    * [Tools and Libraries](#tools-and-libraries)
-* [Testing](#testing)
-* [Deployment](#deployment)
+
 * [Credits](#credits)
 
 <a name="ux"></a>
@@ -94,3 +91,23 @@ Bootstrap provides various elements of CSS.[markdown-cheat-sheet.md](https://git
 
 [Back to Top](#table-of-contents)
 [markdown-cheat-sheet.md](https://github.com/lofty5276uk/Cricket-for-Newbies/files/6784918/markdown-cheat-sheet.md)
+
+### Content - Media - Inspiration
+
+I have used the following websites to gather ideas and information for the overall content of my website: 
+
+* Pitch Image https://www.istockphoto.com/
+* Batting Image https://global-uploads.webflow.com
+* Bowling Image https://www.wikihow.com/
+* Rules Image https://www.pinterest.co.uk/qadeerifx
+* Fielding image https://www.cricketbio.com/
+* logo image https://splash247.com/rise-of-the-third-umpire-in-shipping/
+
+
+
+### Acknowledgements
+
+Firstly Thank you to my mentor Richard Wells without your support i#I have no doubt I would be a whimpering mess hiding behind my sofa.
+Secondly Too Everyone on Slack who has taken the time to point me in the right direction despite me asking the most random questions
+And last but not least to my wife for randonly seeing if it works on her phone despite it meaning im disturbing her.  And to my little boy Steven for pointing out my mistakes!
+[Back to Top](#table-of-contents)
