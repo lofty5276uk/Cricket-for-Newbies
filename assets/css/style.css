@@ -28,6 +28,15 @@ h2 {
 
 /*----Sections 1 through 4----*/
 
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  font-size: 2rem;
+}
+
 .section-header {
   font-size: 2rem;
   font-weight: 500;
@@ -49,6 +58,7 @@ h2 {
 
 .p {
   text-align: center
+  
 }
 /*----navbar----*/
 
@@ -99,17 +109,24 @@ h2 {
 #callout-container {
   height: 100vh;
   width: auto;
-  background: url(../images/pitch.jpg) no-repeat fixed;
+  background: url(../images/pitch.png) no-repeat fixed;
   background-size: cover;
   background-color: rgb(3, 7, 12));
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;    
+  text-align: center; 
+  font-weight: bold;
 }
 
-.pitch.jpg {
-  background: url(../images/pitch.jpg) no-repeat fixed;
+.pitch.png {
+  background: url(../images/pitch.png) no-repeat fixed;
+}
+
+.ashes.png {
+  background: url(../images/Ashes.png); no-repeat fixed;
+  background-size: initial;
+
 }
 
 .callout-text {
@@ -117,19 +134,8 @@ h2 {
   font-weight: bold;
 }
 
-.Rules-of-Cricket {
-  font-size: 1.2rem;
-  align-self: left;
-}
+.p {
 
-.batting {
-  font-size: 1.2rem;
-  align-self: left;  
-}
-
-.bowling {
-  font-size: 1.2rem;
-  align-self: left;   
 }
 
 
@@ -167,4 +173,8 @@ td {
   font-weight: bold;
 }
 
+.img {
+  width: 200px;
+  height: 121px;
+}
 
