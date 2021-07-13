@@ -125,12 +125,6 @@ body {
   background-size: cover;
 }
 
-.ashes.png {
-  background: url(../images/Ashes.png); no-repeat fixed;
-  background-size: initial;
-
-}
-
 .callout-text {
   color: rgba(10, 8, 8, 0.849);
   font-weight: bold;
@@ -160,7 +154,7 @@ tr {
 }
 
 tr, th, td {
-	text-align: left;
+	text-align: right;
  
 }
 
@@ -188,4 +182,10 @@ td {
 
 .bowling.html {
   text-size-adjust: auto;
+  text-align-last: center;
+}
+
+
+.table {
+  flex-wrap: nowrap | wrap | wrap-reverse;
 }
