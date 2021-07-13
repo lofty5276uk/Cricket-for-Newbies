@@ -2,7 +2,6 @@
 
 /*----Header----*/
 
-font-family: Roboto;
 
 h1 {
   text-align:center;
@@ -123,6 +122,7 @@ body {
 
 .pitch.png {
   background: url(../images/pitch.png) no-repeat fixed;
+  background-size: cover;
 }
 
 .ashes.png {
@@ -138,6 +138,7 @@ body {
 
 .p {
   text-size-adjust: auto;
+  text-align: center;
   
 }
 
@@ -182,5 +183,9 @@ td {
 }
 
 .batting.html {
+  text-size-adjust: auto;
+}
+
+.bowling.html {
   text-size-adjust: auto;
 }
