@@ -2,16 +2,19 @@
 
 /*----Header----*/
 
+body {
+  background-image: url('assets/images/pitch.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
-h1 {
+
+div h1, h2 {
   text-align:center;
   font-weight: bold;
 }
 
-h2 {
-  text-align:center;
-  font-weight: bold;
-}
 .bg-color-head {
   background-color: rgb(9, 14, 20);
 }
@@ -123,7 +126,7 @@ body {
 }
 
 .callout-text {
-  color: rgba(10, 8, 8, 0.849);
+  color: rgba(180, 14, 14, 0.849);
   font-weight: bold;
 }
 
@@ -168,6 +171,10 @@ td {
   font-weight: bold;
 }
 
+tr {
+  style="width:300px; border: 1px solid black"
+}
+
 .img {
   width: 200px;
   height: 121px;
@@ -182,12 +189,4 @@ td {
   text-align-last: center;
 }
 
-.bowling.png {
-  style=padding: 10px;
-  margin: 10px;
-}
-
-
-.table {
-  flex-wrap: nowrap | wrap | wrap-reverse;
-}
+style="width:300px; border: 1px solid black"
