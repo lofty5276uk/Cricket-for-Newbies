@@ -182,6 +182,11 @@ td {
   text-align-last: center;
 }
 
+.bowling.png {
+  style=padding: 10px;
+  margin: 10px;
+}
+
 
 .table {
   flex-wrap: nowrap | wrap | wrap-reverse;
