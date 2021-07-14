@@ -57,10 +57,7 @@ body {
   margin: 0 5rem;
 }
 
-.p {
-  text-align: center
-  
-}
+
 /*----navbar----*/
 
 .navbar-stick {
@@ -130,11 +127,11 @@ body {
   font-weight: bold;
 }
 
-.p {
-  text-size-adjust: auto;
-  text-align: center;
-  
+p {
+  display: block;
+  text-align: justify;
 }
+
 
 
 )
