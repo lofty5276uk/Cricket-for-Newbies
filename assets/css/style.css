@@ -2,7 +2,7 @@
 
 /*----Header----*/
 
-body {
+html {
   background-image: url('assets/images/pitch.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -39,6 +39,7 @@ body {
   margin: 0;
   position: relative;
   font-size: 2rem;
+  color: #000080
 }
 
 .section-header {
@@ -86,7 +87,7 @@ body {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: white;
+  color: #FFD700;
   font-size: 1.2rem;
   font-weight: 700;
 }
@@ -120,13 +121,8 @@ body {
   font-weight: bold;
 }
 
-.pitch.png {
-  background: url(../images/pitch.png) no-repeat fixed;
-  background-size: cover;
-}
-
 .callout-text {
-  color: rgba(180, 14, 14, 0.849);
+  color: #000080
   font-weight: bold;
 }
 
@@ -180,13 +176,4 @@ tr {
   height: 121px;
 }
 
-.batting.html {
-  text-size-adjust: auto;
-}
-
-.bowling.html {
-  text-size-adjust: auto;
-  text-align-last: center;
-}
-
-style="width:300px; border: 1px solid black"
+ 
