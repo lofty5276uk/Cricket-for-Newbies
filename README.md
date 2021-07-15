@@ -94,7 +94,7 @@ Bootstrap provides various elements of CSS.[markdown-cheat-sheet.md](https://git
 
 #### WireFrames 
 
-I used Balsamiq to create my wireframes for my projecct
+I used Balsamiq to create my wireframes for my project
 Cricket-for-Newbies/Newbies Guide To Cricket Wireframe.bmpr
 
 [Back to Top](#table-of-contents)
