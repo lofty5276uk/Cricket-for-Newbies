@@ -1,12 +1,12 @@
 # **Cricket For Newbies**
 
-assets/images/park.png
+(assets/images/cricket.png)
 
 
 ## **Aims of this project**
 
 This is Cricket For Newbies!
-Having spent 27 years playing cricket around the country it amazed me the amount of people who were interested in playing cricket but had no idea where to start.
+Having spent 27 years playing cricket around tassets/images/cricket.pnghe country it amazed me the amount of people who were interested in playing cricket but had no idea where to start.
 This website has been designed to help those people to start playing the game I love even 6 years after i retired!!!!
 
 I have designed this information packed website to make it easy reading as cricket is not the easiest game to learn.
