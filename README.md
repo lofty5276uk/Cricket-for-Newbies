@@ -91,6 +91,10 @@ As I decided not to overload the webpage with colors I kept them simple using st
 I have chosen to use [Bootstrap](https://getbootstrap.com/) to create an overall structure for my website. 
 Bootstrap provides various elements of CSS.[markdown-cheat-sheet.md](https://github.com/lofty5276uk/Cricket-for-Newbies/files/6784916/markdown-cheat-sheet.md)
 
+#### WireFrames 
+
+I used Balsamiq to create my wireframes for my projecct
+
 [Back to Top](#table-of-contents)
 [markdown-cheat-sheet.md](https://github.com/lofty5276uk/Cricket-for-Newbies/files/6784918/markdown-cheat-sheet.md)
 
