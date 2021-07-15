@@ -1,10 +1,13 @@
 # **Cricket For Newbies**
 
+![cricket-in-the-park-glenford-john](https://user-images.githubusercontent.com/83220570/125708983-68948da6-261a-4d26-91b8-d510b274bbde.jpg)
+
+
 
 ## **Aims of this project**
 
 This is Cricket For Newbies!
-Having spent 27 years playing cricket around the country it amazed me the amount of people who were interested in playing cricket but had no idea where to start.
+Having spent 27 years playing cricket around tassets/images/cricket.pnghe country it amazed me the amount of people who were interested in playing cricket but had no idea where to start.
 This website has been designed to help those people to start playing the game I love even 6 years after i retired!!!!
 
 I have designed this information packed website to make it easy reading as cricket is not the easiest game to learn.
@@ -88,6 +91,11 @@ As I decided not to overload the webpage with colors I kept them simple using st
 #### Structure
 I have chosen to use [Bootstrap](https://getbootstrap.com/) to create an overall structure for my website. 
 Bootstrap provides various elements of CSS.[markdown-cheat-sheet.md](https://github.com/lofty5276uk/Cricket-for-Newbies/files/6784916/markdown-cheat-sheet.md)
+
+#### WireFrames 
+
+I used Balsamiq to create my wireframes for my project
+Cricket-for-Newbies/Newbies Guide To Cricket Wireframe.bmpr
 
 [Back to Top](#table-of-contents)
 [markdown-cheat-sheet.md](https://github.com/lofty5276uk/Cricket-for-Newbies/files/6784918/markdown-cheat-sheet.md)
