@@ -111,7 +111,7 @@ body {
 #callout-container {
   height: 100vh;
   width: auto;
-  background: url(../images/pitch.png) no-repeat fixed;
+  background-image: url('../images/pitch.png');
   background-size: cover;
   background-color: rgb(3, 7, 12));
   display: flex;
