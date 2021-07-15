@@ -3,7 +3,7 @@
 /*----Header----*/
 
 html {
-  background-image: url('assets/images/pitch.png');
+  background-image: url('../images/pitch.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
