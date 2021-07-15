@@ -1,6 +1,7 @@
 # **Cricket For Newbies**
 
-(assets/images/cricket.png)
+![cricket-in-the-park-glenford-john](https://user-images.githubusercontent.com/83220570/125708983-68948da6-261a-4d26-91b8-d510b274bbde.jpg)
+
 
 
 ## **Aims of this project**
