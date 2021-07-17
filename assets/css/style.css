@@ -142,6 +142,6 @@ p {
  size: 100%;
 }
 
-.card {
- font-size:1.5rem ; 
+.list-group list-group-flush {
+  font-size: 28rem;
 }
