@@ -121,6 +121,7 @@ body {
 p {
   display: block;
   text-align: justify;
+  
 }
 
 .caption-side {
@@ -145,3 +146,5 @@ p {
 .list-group list-group-flush {
   font-size: 28rem;
 }
+
+
