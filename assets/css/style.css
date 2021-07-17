@@ -147,4 +147,4 @@ p {
   font-size: 28rem;
 }
 
-
+p:hover {	font-weight: 300 font-size: 300 ;}
