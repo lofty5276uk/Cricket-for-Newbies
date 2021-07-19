@@ -97,7 +97,7 @@ body {
 }
 
 .navbar-toggler-icon i {
-  color: white;
+  color: #ffffff;
   font-size: 1.75rem;
 }
 
@@ -112,6 +112,7 @@ body {
   justify-content: center;
   text-align: center;
   font-weight: bold;
+  background-repeat: no-repeat;
 }
 
 .callout-text {
@@ -119,10 +120,9 @@ body {
   font-weight: bold;
 }
 
-p {
+.p class=para-format {
   display: block;
   text-align: justify;
-
 }
 
 .caption-side {
@@ -132,8 +132,8 @@ p {
 
 
 .png {
-  width: 300px;
-  height: 184px;
+  width: 19rem;
+  height: 12rem;
 }
 
 .batting {
@@ -147,3 +147,4 @@ p {
 .list-group list-group-flush {
   font-size: 28rem;
 }
+
