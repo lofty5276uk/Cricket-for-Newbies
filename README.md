@@ -100,6 +100,17 @@ Cricket-for-Newbies/Newbies Guide To Cricket Wireframe.bmpr
 [Back to Top](#table-of-contents)
 [markdown-cheat-sheet.md](https://github.com/lofty5276uk/Cricket-for-Newbies/files/6784918/markdown-cheat-sheet.md)
 
+### **Existing Features**
+
+#### Navigation
+
+![screenshot of nav bar](assets/readme/nav.png)
+
+I used Bootstrap to create my navbar and then styled so its easy viewing and easy to use for all users. Controlled using a Burger icon
+
+I fixed the Nav Bar to the top so users can easily navigate the site from whichever section they are in. This negates the need to put in 'back to top' links which could break user experience. 
+
+
 ### Content - Media - Inspiration
 
 I have used the following websites to gather ideas and information for the overall content of my website: 
