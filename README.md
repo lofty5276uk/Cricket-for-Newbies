@@ -80,6 +80,10 @@ Back to Top](#table-of-contents)
 I have used Google Fonts and the Robot font range to keep the text looking clear and simple.
 
 <a></a>
+#### Logo
+I created my logo using https://www.photopea.com/ to keep it inline with the theme of the website.
+
+<a></a>
 #### Icons
 I have decided to implement icons, using the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). The icons used are in tune with the external links on the webpage.
 
@@ -131,3 +135,38 @@ Firstly Thank you to my mentor Richard Wells without your support i#I have no do
 Secondly Too Everyone on Slack who has taken the time to point me in the right direction despite me asking the most random questions
 And last but not least to my wife for randonly seeing if it works on her phone despite it meaning im disturbing her.  And to my little boy Steven for pointing out my mistakes!
 [Back to Top](#table-of-contents)
+
+## **Testing**
+
+<a></a>
+
+### **Approach and Tools**
+
+I deployed my website later then planned due to me needing to fully understand the whole process involved. this was achieved with no end of help from the slack community as well as my mentor.
+
+Once I had the structure in place, I began testing across other devices. I checked that the menu as well as the embeded vidoes worked and showed correctly across all devices. 
+
+Finally, I asked my wife to test the website on her mobile device. I asked her to make a note of anything they found didnt work or from a design purpose didnt like the look of This proved particularly helpful for user stories and when considering future features.
+
+<a></a>
+
+### **Validator Testing**
+* HTML
+    * No errors were returned when passing through [W3C HTML Validation Service](https://validator.w3.org/)
+
+* CSS
+    * No errors were returned when passing through [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+<a></a>
+
+### **Bugs and Solutions**
+
+* Hero Image
+    I had issues where the hero image would show twice when looking the batting.html page this was easily solved by adding no-repeat 
+   
+  * *Verdict* - Image now shows as expected on all browsers.
+
+* Hamburger dropdown menu
+    no known bugs found worked on all devices.
+
+
