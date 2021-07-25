@@ -7,7 +7,7 @@
 ## **Aims of this project**
 
 This is Cricket For Newbies!
-Having spent 27 years playing cricket around tassets/images/cricket.pnghe country it amazed me the amount of people who were interested in playing cricket but had no idea where to start.
+Having spent 27 years playing cricket around the assets/images/cricket.png country it amazed me the amount of people who were interested in playing cricket but had no idea where to start.
 This website has been designed to help those people to start playing the game I love even 6 years after i retired!!!!
 
 I have designed this information packed website to make it easy reading as cricket is not the easiest game to learn.
@@ -55,8 +55,6 @@ Any Feedback or queries head over to my Github contact details and please leave 
 ### **Site owners Goals**
 Advertise the different aspects of the sport
 Increase the amount of people who end up participating in the sport.
-
-Back to Top](#table-of-contents)
 
 <a></a>
 ### **User Requirements and Expectations**
