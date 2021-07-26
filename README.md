@@ -38,7 +38,7 @@ Any Feedback or queries head over to my Github contact details and please leave 
 <a></a>
 ### **User Goals**
 
-* A website that is easy to navigate on different devices 
+* A website that is easy to navigate on different devices.  I decided on a basic bootstrap navbar to make the user experience as easy as possible.
 ![image](https://user-images.githubusercontent.com/83220570/126987789-7dd0c224-9a72-4052-986d-8b85859a7707.png)
 * Content that is meaningful and catches the eye
 * Easy on the eye in terms of content colour and layout
@@ -51,7 +51,6 @@ Any Feedback or queries head over to my Github contact details and please leave 
 * As a user I want the website to provide the information I require without me having to click on too many buttons
 * As a user I want a choice of websites should I choose to continue my investigations.
 * ![image](https://user-images.githubusercontent.com/83220570/126988161-1e1fa60b-773d-4be4-ba8c-39b517b0bc0c.png) The 3 icons will direct the user in the direction of coaching and signing up for a club.
-
 * As a user I want a website that is visually stimulating
 
 <a></a>
