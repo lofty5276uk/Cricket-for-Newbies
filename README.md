@@ -129,13 +129,6 @@ I have used the following websites to gather ideas and information for the overa
 * Cricket Image https://media.istockphoto.com/photos/
 * Ashes Image https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QCkoJFnZ_jOmNNZvjTg9Sm3pcui9iwwbHw&usqp=CAU
 
-### Acknowledgements
-
-Firstly Thank you to my mentor Richard Wells without your support i#I have no doubt I would be a whimpering mess hiding behind my sofa.
-Secondly Too Everyone on Slack who has taken the time to point me in the right direction despite me asking the most random questions
-And last but not least to my wife for randonly seeing if it works on her phone despite it meaning im disturbing her.  And to my little boy Steven for pointing out my mistakes!
-[Back to Top](#table-of-contents)
-
 ## **Testing**
 
 <a></a>
@@ -169,4 +162,10 @@ Finally, I asked my wife to test the website on her mobile device. I asked her t
 * Hamburger dropdown menu
     no known bugs found worked on all devices.
 
+### Acknowledgements
+
+Firstly Thank you to my mentor Richard Wells without your support i#I have no doubt I would be a whimpering mess hiding behind my sofa.
+Secondly Too Everyone on Slack who has taken the time to point me in the right direction despite me asking the most random questions
+And last but not least to my wife for randonly seeing if it works on her phone despite it meaning im disturbing her.  And to my little boy Steven for pointing out my mistakes!
+[Back to Top](#table-of-contents)
 
