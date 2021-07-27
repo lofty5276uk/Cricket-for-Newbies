@@ -114,21 +114,6 @@ I used Bootstrap to create my navbar and then styled so its easy viewing and eas
 
 I fixed the Nav Bar to the top so users can easily navigate the site from whichever section they are in. This negates the need to put in 'back to top' links which could break user experience. 
 
-
-### Content - Media - Inspiration
-
-I have used the following websites to gather ideas and information for the overall content of my website: 
-
-* Pitch Image https://www.istockphoto.com/
-* Batting Image https://global-uploads.webflow.com
-* Bowling Image https://www.wikihow.com/
-* Rules Image https://www.pinterest.co.uk/qadeerifx
-* Fielding Image https://www.cricketbio.com/
-* logo image https://splash247.com/rise-of-the-third-umpire-in-shipping/
-* back lift Image https://www.cricketbio.com%2Fcricket%2Fhow-to-take-proper-stance-in-cricket
-* Cricket Image https://media.istockphoto.com/photos/
-* Ashes Image https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QCkoJFnZ_jOmNNZvjTg9Sm3pcui9iwwbHw&usqp=CAU
-
 ## **Testing**
 
 <a></a>
@@ -161,6 +146,20 @@ Finally, I asked my wife to test the website on her mobile device. I asked her t
 
 * Hamburger dropdown menu
     no known bugs found worked on all devices.
+
+### Content - Media - Inspiration
+
+I have used the following websites to gather ideas and information for the overall content of my website: 
+
+* Pitch Image https://www.istockphoto.com/
+* Batting Image https://global-uploads.webflow.com
+* Bowling Image https://www.wikihow.com/
+* Rules Image https://www.pinterest.co.uk/qadeerifx
+* Fielding Image https://www.cricketbio.com/
+* logo image https://splash247.com/rise-of-the-third-umpire-in-shipping/
+* back lift Image https://www.cricketbio.com%2Fcricket%2Fhow-to-take-proper-stance-in-cricket
+* Cricket Image https://media.istockphoto.com/photos/
+* Ashes Image https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QCkoJFnZ_jOmNNZvjTg9Sm3pcui9iwwbHw&usqp=CAU
 
 ### Acknowledgements
 
