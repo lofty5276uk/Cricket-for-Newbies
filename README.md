@@ -108,8 +108,7 @@ Cricket-for-Newbies/Newbies Guide To Cricket Wireframe.bmpr
 
 #### Navigation
 
-![screenshot of nav bar](assets/readme/nav.png)
-
+![image](https://user-images.githubusercontent.com/83220570/126987789-7dd0c224-9a72-4052-986d-8b85859a7707.png)
 I used Bootstrap to create my navbar and then styled so its easy viewing and easy to use for all users. Controlled using a Burger icon
 
 I fixed the Nav Bar to the top so users can easily navigate the site from whichever section they are in. This negates the need to put in 'back to top' links which could break user experience. 
